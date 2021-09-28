@@ -1,8 +1,6 @@
 
 ## Hello, folks! <img src="imgs/wave.gif" width="30px">
 
-
-**nishantnksingh/nishantnksingh** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 <h3>Things I code with</h3>
 <p>
   <img alt="React" src="https://img.shields.io/badge/-React-45b8d8?style=flat-square&logo=react&logoColor=white" />
@@ -29,9 +27,6 @@ Here are some ideas to get you started:
 
 
 
-
-
-
  [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=nishantnksingh&layout=compact&hide=javascript&show_icons=true&theme=synthwave
 )](https://github.com/nishantnksingh/github-readme-stats)
 
@@ -39,6 +34,18 @@ Here are some ideas to get you started:
   ![My's GitHub stats](https://github-readme-stats.vercel.app/api?username=nishantnksingh&show_icons=true&theme=tokyonight)
 
 
+
+## &#x1f4c8; GitHub Stats
+
+<a href="https://github.com/nishantnksingh/nishantnksingh">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=nishantnksingh&hide=java,html,tex&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21&langs_count=3" />
+</a>
+<a href="https://github.com/nishantnksingh/nishantnksingh">
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=nishantnksingh&show_icons=true&line_height=27&count_private=true&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" alt="Nishant's GitHub Stats" />
+</a>
+
+
+
 <h3>Where to find me</h3>
-<p><a href="https://github.com/nishantnksingh" target="_blank"><img alt="Github" src="https://img.shields.io/badge/GitHub-%2312100E.svg?&style=for-the-badge&logo=Github&logoColor=white" /></a> <a href="https://twitter.com/nishantnksingh" target="_blank"><img alt="Twitter" src="https://img.shields.io/badge/twitter-%231DA1F2.svg?&style=for-the-badge&logo=twitter&logoColor=white" /></a> <a href="https://www.linkedin.com/in/nishantnksingh" target="_blank"><img alt="LinkedIn" src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" /></a> <a href="https://medium.com/nishantnksingh" target="_blank"><img alt="Medium" src="https://img.shields.io/badge/medium-%2312100E.svg?&style=for-the-badge&logo=medium&logoColor=white" /></a>
+<p><a href="https://www.linkedin.com/in/nishantnksingh" target="_blank"><img alt="LinkedIn" src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" /></a><a href="https://github.com/nishantnksingh" target="_blank"><img alt="Github" src="https://img.shields.io/badge/GitHub-%2312100E.svg?&style=for-the-badge&logo=Github&logoColor=white" /></a> <a href="https://twitter.com/nishantnksingh" target="_blank"><img alt="Twitter" src="https://img.shields.io/badge/twitter-%231DA1F2.svg?&style=for-the-badge&logo=twitter&logoColor=white" /></a>  <a href="https://medium.com/nishantnksingh" target="_blank"><img alt="Medium" src="https://img.shields.io/badge/medium-%2312100E.svg?&style=for-the-badge&logo=medium&logoColor=white" /></a>
 </p>
