@@ -19,3 +19,9 @@ Here are some ideas to get you started:
 
 ![My's GitHub stats](https://github-readme-stats.vercel.app/api?username=nishantnksingh&show_icons=true&theme=tokyonight)
 
+<a href="https://github.com/nishantnksingh/github-readme-stats">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=nishantnksingh&repo=github-readme-stats" />
+</a>
+<a href="https://github.com/nishantnksingh/convoychat">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=nishantnksingh&repo=convoychat" />
+</a>
