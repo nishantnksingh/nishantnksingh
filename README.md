@@ -1,5 +1,5 @@
-### Hi there 👋
-# Hello, folks! <img src="imgs/wave.gif" width="30px">
+
+## Hello, folks! <img src="imgs/wave.gif" width="30px">
 
 
 **nishantnksingh/nishantnksingh** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -14,3 +14,4 @@ Here are some ideas to get you started:
 - 😄 Pronouns: Hulk, Nishant, Dean
 
 
+[![Nishant's GitHub stats](https://github-readme-stats.vercel.app/api?username=nishantnksingh)](https://github.com/nishantnksingh/github-readme-stats)
