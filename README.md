@@ -15,3 +15,5 @@ Here are some ideas to get you started:
 
 
 [![Nishant's GitHub stats](https://github-readme-stats.vercel.app/api?username=nishantnksingh)](https://github.com/nishantnksingh/github-readme-stats)
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=nishantnksingh&layout=compact)](https://github.com/nishantnksingh/github-readme-stats)
