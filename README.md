@@ -14,8 +14,8 @@ Here are some ideas to get you started:
 - 😄 Pronouns: Hulk, Nishant, Dean
 
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=nishantnksingh&layout=compact&hide=javascript&show_icons=true&theme=radical
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=nishantnksingh&layout=compact&hide=javascript&show_icons=true&theme=merko
 )](https://github.com/nishantnksingh/github-readme-stats)
 
-![My's GitHub stats](https://github-readme-stats.vercel.app/api?username=nishantnksingh&show_icons=true&theme=radical)
+![My's GitHub stats](https://github-readme-stats.vercel.app/api?username=nishantnksingh&show_icons=true&theme=merko)
 
