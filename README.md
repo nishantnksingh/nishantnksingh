@@ -14,14 +14,12 @@ Here are some ideas to get you started:
 - 😄 Pronouns: Hulk, Nishant, Dean
 
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=nishantnksingh&layout=compact&hide=javascript&show_icons=true&theme=synthwave
+
+
+
+
+ [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=nishantnksingh&layout=compact&hide=javascript&show_icons=true&theme=synthwave
 )](https://github.com/nishantnksingh/github-readme-stats)
 
-![My's GitHub stats](https://github-readme-stats.vercel.app/api?username=nishantnksingh&show_icons=true&theme=tokyonight)
 
-<a href="https://github.com/nishantnksingh/github-readme-stats">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=nishantnksingh&repo=github-readme-stats" />
-</a>
-<a href="https://github.com/nishantnksingh/convoychat">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=nishantnksingh&repo=convoychat" />
-</a>
+  ![My's GitHub stats](https://github-readme-stats.vercel.app/api?username=nishantnksingh&show_icons=true&theme=tokyonight)
