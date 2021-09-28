@@ -16,3 +16,6 @@ Here are some ideas to get you started:
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=nishantnksingh&layout=compact&hide=javascript&show_icons=true&theme=radical
 )](https://github.com/nishantnksingh/github-readme-stats)
+
+![My's GitHub stats](https://github-readme-stats.vercel.app/api?username=nishantnksingh&show_icons=true&theme=radical)
+
