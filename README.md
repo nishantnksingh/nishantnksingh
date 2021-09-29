@@ -22,7 +22,7 @@ Here are some ideas to get you started:
 - 🌱 I’m currently learning MERN Stack
 - 👯 I’m looking to collaborate on startup projects
 - 💬 Ask me about having a coffee sometime
-- 📫 How to reach me: <a href="https://www.linkedin.com/in/nishantnksingh/"></a>
+- 📫 How to reach me: <a href="https://www.linkedin.com/in/nishantnksingh/">Click here</a>
 - 😄 Pronouns: Hulk, Nishant, Dean
 
 
