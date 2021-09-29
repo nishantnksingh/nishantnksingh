@@ -18,7 +18,7 @@
 
 Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
+- 🔭 I’m currently working on web projects
 - 🌱 I’m currently learning MERN Stack
 - 👯 I’m looking to collaborate on startup projects
 - 💬 Ask me about having a coffee sometime
